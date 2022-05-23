@@ -1,7 +1,7 @@
 # challenge-2tdsr-disruptive
 Entrega 2 da disciplina de Disruptive Architectures. 2TDSR
 
-## Integrantes
+## Integrantes - Grupo Accessible Meal
 - Alfonso Matsuoka RM87336
 - Lucas Matutani RM87283
 - Ryan Basque RM89176
